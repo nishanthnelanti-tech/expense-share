@@ -1,4 +1,4 @@
-# BillBuddies
+# Expense Share
 BillBuddies is a bill spliting application to streamline group bill settlemen, using MERN stack
 
 ## How to use
